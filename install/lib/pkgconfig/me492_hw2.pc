@@ -1,0 +1,8 @@
+prefix=/home/dalyulbam/catkin_ws/install
+
+Name: me492_hw2
+Description: Description of me492_hw2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
